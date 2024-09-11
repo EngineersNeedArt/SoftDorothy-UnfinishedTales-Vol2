@@ -20,3 +20,6 @@ Turning the cursor into a bird was a cute addition, but I moved on.
 
 ### Tripod 3D:
 
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/4c648fe242019ee73eac530abf11b176b9a75517/Images/Tripod3D.png">
+</p>
