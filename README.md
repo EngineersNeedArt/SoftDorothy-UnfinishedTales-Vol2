@@ -2,6 +2,10 @@
 
 The second part of a collection of Soft Dorothy Software scraps and game experiments from the early 90's.
 
+<p align="center">
+<img width="790" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/1d41de37218490dcb52c09d31782e1e19b26633c/Images/AirBikesSprites.png">
+</p>
+
 ### Sled Run:
 
 I like the artwork.
