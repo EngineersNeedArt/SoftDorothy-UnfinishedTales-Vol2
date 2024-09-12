@@ -34,4 +34,8 @@ I was fascinated by the stereo (actual 3D) images you could create on the Macint
 
 **Tripod 3D** was just an experiment to test a different approach. One of the images, lets say the right one, is flipped as though a mirror image of what the right eye would see. The left image is normal. But you place a mirror, running vertical between the bridge of your nose and the center of the screen — separating the two images. If the reflective side of the mirror is to the right, your left eye sees the left image as per normal, but the right eye, will see the reflected right image in the mirror — hopefully precisely over the left image (if that makes sense).
 
+<p align="center">
+<img width="325" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/f0f666749cc47a2e6d7ad793522bb36c1192fd18/Images/StereoDiagram.png">
+</p>
+
 It's stereo just like **Stella Obscura** but much more relaxing for people to adjust their eyes to. The caveat of course is that you need to build a rather odd viewing contraption with the mirror and all that.
