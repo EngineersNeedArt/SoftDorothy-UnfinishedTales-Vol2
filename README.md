@@ -41,3 +41,12 @@ I was fascinated by the stereo (actual 3D) images you could create on the Macint
 It's stereo just like **Stella Obscura** but much more relaxing for people to adjust their eyes to. The caveat of course is that you need to build a rather odd viewing contraption with the mirror and all that.
 
 If you should give it a try, the mouse button activates the player's jetpack thruster in order for the player to gain elevation. Moving the mouse left and right moves the jet-pack'd player left and right, white moving the mouse verticaly actually moves the player in and out of depth. In this way you can circumnavigate the "tripod" in stereo.
+
+### Thief of Baghdad (AKA, Carpet):
+
+**Carpet** was the working title. **Thief of Baghdad** was a sketch for a "platformer" game — the platforms being magical flying carpets. Sad to say though, I never implemented hit detection code to enable our little thief to jump from one carpet to the next.
+
+Sometimes, like this, you want to test a game mechanic/dynamic. In this case you can move the carpet up as fast as you like — getting our thief airborne. But he falls more slowly. The left and right mouse will move him — but only when his feet are on the carpet. Without going much further in the coding, I could see that it would be challenging (maybe a bit like **Frogger**?) but could be fun.
+
+Although I put this aside in May, 1990, I would revisit the idea in early 1992. The new version would be in color (and renamed **Scheherazade**).
+
