@@ -84,6 +84,10 @@ Around September, 1990 I was playing with **AirBikes**.
 ### Roll-A-Rena:
 
 <p align="center">
-<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/d9eb6d6da62a1cae9416fdfed98340190a4eee54/Images/Roll_A_Rena.png">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/c1b1ea1152683026c3190c08b55b6deeb36b0209/Images/Roll_A_Rena.png">
+</p>
+
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/c1b1ea1152683026c3190c08b55b6deeb36b0209/Images/Roll_A_Rena.png">
 </p>
 
