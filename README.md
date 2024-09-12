@@ -57,3 +57,7 @@ Although I put this aside in May, 1990, I would revisit the idea in early 1992. 
 ### AirBikes:
 
 Around September, 1990 I was playing with **AirBikes**.
+
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/011d183ee9c24d1ec19933b05a27d8f323de93a8/Images/AirBikes.png">
+</p>
