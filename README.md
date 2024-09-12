@@ -3,7 +3,7 @@
 The second part of a collection of Soft Dorothy Software scraps and game experiments from the early 90's.
 
 <p align="center">
-<img width="790" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/7efa297f5270e7ff59ec9c023441d12081cbd249/Images/AirBikesSprites.png">
+<img width="790" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/64392ac7053e9c0aaa4e0efaee9f9058d5d3809b/Images/AirBikesSprites.png">
 </p>
 
 As with the other repos (<a href="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1">Soft Dorothy - Unfinished Tales Vol 1</a>, <a href="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects">Soft Dorothy-Shareware Projects</a> and <a href="https://github.com/EngineersNeedArt/SoftDorothy-CasadyGreeneProjects">Soft Dorothy - Casady & Greene Projects</a>), this is a disk image that can be mounted with a 68K Mac emulator. This disk image contains more projects that I began, did not complete.
