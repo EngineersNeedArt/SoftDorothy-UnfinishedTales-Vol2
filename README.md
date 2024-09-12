@@ -8,6 +8,25 @@ The second part of a collection of Soft Dorothy Software scraps and game experim
 
 As with the other repos (<a href="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1">Soft Dorothy - Unfinished Tales Vol 1</a>, <a href="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects">Soft Dorothy-Shareware Projects</a> and <a href="https://github.com/EngineersNeedArt/SoftDorothy-CasadyGreeneProjects">Soft Dorothy - Casady & Greene Projects</a>), this is a disk image that can be mounted with a 68K Mac emulator. This disk image contains more projects that I began, did not complete.
 
+Here is the continuation of the list that I presented part of in the README to Unfinished Tales Vol. 1. It ends where I was working on, had not shipped, **Mac Tuberling**. Other titles listed below that did ship were **Stella Obscura** and **Pararena**.
+
+```
+:
+sd17 = Sled Run         incomplete <slow, no fun>
+sd18 = Stella Obscura   v.1.0 +++
+sd19 = Tripod 3D        incomplete <no point>-K
+sd20 = Thief of Baghdad incomplete <no point>
+sd21 = Pararena         v.1.0/1.1/1.2 +++
+sd22 = AirBikes         incomplete <slow>
+sd23 = Roll-A-Rena      incomplete <control>
+sd24 = DeepSketch       incomplete
+sd25 = Fighting Kite    working on
+sd26 = X-Glyph          working on
+sd27 = UnMask           v.1.0 +++
+sd28 = Mac Tuberling    working on
+```
+Though my book-keeping ended there, I have still more projects as you will see below (in what I believe is the order that they were worked on).
+
 ### Sled Run:
 
 I like the artwork.
@@ -61,3 +80,10 @@ Around September, 1990 I was playing with **AirBikes**.
 <p align="center">
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/011d183ee9c24d1ec19933b05a27d8f323de93a8/Images/AirBikes.png">
 </p>
+
+### Roll-A-Rena:
+
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/d9eb6d6da62a1cae9416fdfed98340190a4eee54/Images/Roll_A_Rena.png">
+</p>
+
