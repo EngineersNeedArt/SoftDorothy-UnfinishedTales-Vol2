@@ -85,6 +85,10 @@ It's too bad though because when I play with the game now, such as it is, I can 
 
 And the artwork (probably inspired by the first *Heavy Metal* film) is kind of cool. If you play with this at all watch how the exhaust pops from the airbike when you accelerate — the woman's hair is tosssed in the wind, she leans when she turns, pops up off the seat when braking.
 
+<p align="center">
+<img width="463" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/e7c1b184bad8b1a3b591906417a1fefe3f3295e7/Images/AirBike_Sprites.png">
+</p>
+
 My note for **AirBikes** from the text file at the top of this README says simply `<slow>`. Did I bail on the game simply for that reason — that it felt slow on my lowly Macintosh Plus? The sprite art shows the beginning of an opponent, floating mines, a riderless airbike. One can imagine dodging barrles, mines, opponents — occassionally be sent over the bars fo the airbike... Maybe I didn't really have anywhere else to go with it though.
 
 Later I would partner with a programmer named Jeff Robbin to work on a colaborative racing-style game called **Spaceway 2000**. I think we both agree it was kind of "meh". Perhaps racing games were just not something I was meant to write. 
