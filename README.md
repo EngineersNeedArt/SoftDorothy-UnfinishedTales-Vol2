@@ -91,15 +91,24 @@ And the artwork (probably inspired by the first *Heavy Metal* film) is kind of c
 
 My note for **AirBikes** from the text file at the top of this README says simply `<slow>`. Did I bail on the game simply for that reason — that it felt slow on my lowly Macintosh Plus? The sprite art shows the beginning of an opponent, floating mines, a riderless airbike. One can imagine dodging barrles, mines, opponents — occassionally be sent over the bars fo the airbike... Maybe I didn't really have anywhere else to go with it though.
 
-Later I would partner with a programmer named Jeff Robbin to work on a colaborative racing-style game called **Spaceway 2000**. I think we both agree it was kind of "meh". Perhaps racing games were just not something I was meant to write. 
+Later I would partner with a programmer named Jeff Robbin to work on a collaborative racing-style game called **Spaceway 2000**. I think we both agree it was kind of "meh". Perhaps racing games were just not something I was meant to write. 
 
 ### Roll-A-Rena:
+
+I was working on **Roll-A-Rena** about September, 1990 another game, **Pararena** around October, 1990. So clearly I was having some kind of roller-derby fixation. Maybe I had just watched Raquel Welch in *Kansas City Bomber* on TV (or *Rollerball* — or both).
 
 <p align="center">
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/c1b1ea1152683026c3190c08b55b6deeb36b0209/Images/Roll_A_Rena.png">
 </p>
 
+Not much came of **Roll-A-Rena** while **Pararena** I finished and released as shareware. What there is of **Roll-A-Rena** feels to me like just an experiment in user input. I'm not even sure how it works or is supposed to work. The mouse button will move your player's feet back and forth — moving the mouse left and right "steers" the player nearer or farther from us. If I had to guess, I think pumping the mouse button was intended to give you a forward impulse. Climbing the roller-arena wall would trade forward velocity for potential energy. Skating away from the wall would do the reverse.
+
+Without any visual cues though it is not obvious if you are moving forward around the area and if you , how quickly. I guess I abandonded this one a little soon for that.
+
 <p align="center">
 <img width="199" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/e2873e71379da2d67e000663adf367086c6a4296/Images/Roll_A_Rena_Sprites.png">
 </p>
 
+Again the sprite sheet is telling. I'm going to guess the flags were going to be the thing that scrolled around the back edge of the arena to give you the sense of movement. A player from the opposing team is in the sprite sheet (wearing black). It looks like elbowing and jumping were to be part of the game.
+
+I kind of want to pick this one up again and at least move it a little further along. Likely work on **Pararena** took me away from doing that at the time.
