@@ -75,11 +75,19 @@ Although I put this aside in May, 1990, I would revisit the idea in early 1992. 
 
 ### AirBikes:
 
-Around September, 1990 I was playing with **AirBikes**.
+Around September, 1990 I was playing with **AirBikes**. The game **K-10** (see Unfinished Tales Vol. 1) was my first stab at a racing game, **AirBikes**, a side-scroller, was I guess my second. I didn't even get as far as I did in **K-10**. Your player is there, and you can steer, accelerate, brake. There are barrels blocking your path along the road but there isn't even basic collision detection so you can blaze right through them. There are no sounds, no enemies.
 
 <p align="center">
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/011d183ee9c24d1ec19933b05a27d8f323de93a8/Images/AirBikes.png">
 </p>
+
+It's too bad though because when I play with the game now, such as it is, I can hear some really cool sounds in my head that would really take the experience to the next level.
+
+And the artwork (probably inspired by the first *Heavy Metal* film) is kind of cool. If you play with this at all watch how the exhaust pops from the airbike when you accelerate — the woman's hair is tosssed in the wind, she leans when she turns, pops up off the seat when braking.
+
+My note for **AirBikes** from the text file at the top of this README says simply `<slow>`. Did I bail on the game simply for that reason — that it felt slow on my lowly Macintosh Plus? The sprite art shows the beginning of an opponent, floating mines, a riderless airbike. One can imagine dodging barrles, mines, opponents — occassionally be sent over the bars fo the airbike... Maybe I didn't really have anywhere else to go with it though.
+
+Later I would partner with a programmer named Jeff Robbin to work on a colaborative racing-style game called **Spaceway 2000**. I think we both agree it was kind of "meh". Perhaps racing games were just not something I was meant to write. 
 
 ### Roll-A-Rena:
 
@@ -88,6 +96,6 @@ Around September, 1990 I was playing with **AirBikes**.
 </p>
 
 <p align="center">
-<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/c1b1ea1152683026c3190c08b55b6deeb36b0209/Images/Roll_A_Rena.png">
+<img width="199" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/e2873e71379da2d67e000663adf367086c6a4296/Images/Roll_A_Rena_Sprites.png">
 </p>
 
