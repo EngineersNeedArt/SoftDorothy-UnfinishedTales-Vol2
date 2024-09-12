@@ -63,7 +63,7 @@ If you should give it a try, the mouse button activates the player's jetpack thr
 
 ### Thief of Baghdad (AKA, Carpet):
 
-**Carpet** was the working title. **Thief of Baghdad** was a sketch for a "platformer" game — the platforms being magical flying carpets. Sad to say though, I never implemented hit detection code to enable our little thief to jump from one carpet to the next.
+**Carpet** was the working title. **Thief of Baghdad** was a sketch for a "platformer" game — the platforms being magical flying carpets. Sad to say though, I never implemented hit detection code to enable our little thief to jump from one carpet to the next — so you have to content yourself to the one carpet you begin on.
 
 <p align="center">
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/1b6cdf5890f867892f17f7392ff53e95d25c800f/Images/Carpet.png">
