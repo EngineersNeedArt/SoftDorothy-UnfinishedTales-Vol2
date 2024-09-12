@@ -39,3 +39,5 @@ I was fascinated by the stereo (actual 3D) images you could create on the Macint
 </p>
 
 It's stereo just like **Stella Obscura** but much more relaxing for people to adjust their eyes to. The caveat of course is that you need to build a rather odd viewing contraption with the mirror and all that.
+
+If you should give it a try, the mouse button activates the player's jetpack thruster in order for the player to gain elevation. Moving the mouse left and right moves the jet-pack'd player left and right, white moving the mouse verticaly actually moves the player in and out of depth. In this way you can circumnavigate the "tripod" in stereo.
