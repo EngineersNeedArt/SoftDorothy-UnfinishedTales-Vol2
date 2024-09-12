@@ -18,7 +18,7 @@ I remember a few skiing games from early game consoles like the *Intellivision*.
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/eb26720ae4c74bdb5af6b62882a60d8eb81597d4/Images/SledRun.png">
 </p>
 
-A good example of a game sketch where you say at this point, "Okay, but this isn't really fun." Here too though might be an example of a game where spending more time with it, trying various things, might in fact have brought it to a fun place. If networking were more of a thing back in May, 1990 (when it appears I wrote it) a sled racing game could have kicked ass.
+**Sled Run** is a good example of a game sketch where you say at this point, "Okay, but this isn't really fun." Here too though might be an example of a game where spending more time with it, trying various things, might in fact have brought it to a fun place. If networking were more of a thing back in May, 1990 (when it appears I wrote it) a sled racing game could have kicked ass.
 
 > Only now I just remembered imagining as a kid specialized enclosed sleds designed for hours-long races down ... I don't know ... the Matterhorn? 
 
@@ -26,6 +26,12 @@ Turning the cursor into a bird was a cute addition, but I moved on.
 
 ### Tripod 3D:
 
+I was fascinated by the stereo (actual 3D) images you could create on the Macintosh and did a rather ligthweight game called **Stella Obscura** about May of 1990. **Tripod 3D** was a kind of continuation of that. **Stella Obscura** was what you would call *parallel* stereo where, if you can relax your eyes, your eyes are looking in parallel at the two images: your left eye looking at the left image, your right eye looking at the right. Without additional optics, it's rather difficult for most people to do.
+
 <p align="center">
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/4c648fe242019ee73eac530abf11b176b9a75517/Images/Tripod3D.png">
 </p>
+
+**Tripod 3D** was just an experiment to test a different approach. One of the images, lets say the right one, is flipped as though a mirror image of what the right eye would see. The left image is normal. But you place a mirror, running vertical between the bridge of your nose and the center of the screen — separating the two images. If the reflective side of the mirror is to the right, your left eye sees the left image as per normal, but the right eye, will see the reflected right image in the mirror — hopefully precisely over the left image (if that makes sense).
+
+It's stereo just like **Stella Obscura** but much more relaxing for people to adjust their eyes to. The caveat of course is that you need to build a rather odd viewing contraption with the mirror and all that.
