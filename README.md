@@ -69,7 +69,7 @@ If you should give it a try, the mouse button activates the player's jetpack thr
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/1b6cdf5890f867892f17f7392ff53e95d25c800f/Images/Carpet.png">
 </p>
 
-Sometimes, like this, you want to test a game mechanic/dynamic. In this case you can move the carpet up as fast as you like — getting our thief airborne. But he falls more slowly. The left and right mouse will move him — but only when his feet are on the carpet. Without going much further in the coding, I could see that it would be challenging (maybe a bit like **Frogger**?) but could be fun.
+Sometimes, like in this case, you want to test a game mechanic/dynamic. In this case you can move the carpet up as fast as you like — getting our thief airborne. But he falls more slowly. The left and right mouse will move him — but only when his feet are on the carpet. Without going much further in the coding, I could see that it would be challenging (maybe a bit like **Frogger**?) but could be fun.
 
 Although I put this aside in May, 1990, I would revisit the idea in early 1992. The new version would be in color (and renamed **Scheherazade**).
 
