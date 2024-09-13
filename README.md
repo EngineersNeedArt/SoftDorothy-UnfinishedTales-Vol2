@@ -189,7 +189,15 @@ Oh, and I didn't play with it, but it appears to have a course editor where you 
 
 ### Streamer:
 
-Follwing in the footsteps of the previously mentioned **East Winds**, the partial **Streamer** was a side scrolling, flight-related experiment. Maybe you know/rememebr the old control-line model airplanes. More specifically there was a model airplane hobby involving flying what were called *combat* airplanes. Model planes with small gas engines would pull behind them a paper streamer — the goal was to cut off the streamer of your opponent while maintaining your own plane's.
+<p align="center">
+<img width="640" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/c61cdbd2a8ac37a56257f6887c27ed3134b8777b/Images/Streamer.png">
+</p>
+
+Following in the footsteps of the previously mentioned **East Winds**, the partial **Streamer** was a side scrolling, flight-related experiment. Maybe you know/rememebr the old control-line model airplanes. More specifically there was a model airplane hobby involving flying what were called *combat* airplanes. Model planes with small gas engines would pull behind them a paper streamer — the goal was to cut off the streamer of your opponent while maintaining your own plane's.
+
+<p align="center">
+<img width="515" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/c61cdbd2a8ac37a56257f6887c27ed3134b8777b/Images/Streamer_Sprites.png">
+</p>
 
 Very little of the game was implemented. Trying to be true to physics (and having actually, briefly, flown a control-line model airplane) the simulated combat airplane in **Streamer** dives quickly, is slower to climb. This makes for a pretty twitchy interface that feels more painful than fun. For that reason, moving forward with the work needed to add an opponent, add sound (add an actual streamer) was cancelled. So in June, 1991, I shelved it.
 
