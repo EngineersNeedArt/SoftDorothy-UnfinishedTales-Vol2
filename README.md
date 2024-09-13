@@ -61,9 +61,9 @@ It's stereo just like **Stella Obscura** but much more relaxing for people to ad
 
 If you should give it a try, the mouse button activates the player's jetpack thruster in order for the player to gain elevation. Moving the mouse left and right moves the jet-pack'd player left and right, white moving the mouse verticaly actually moves the player in and out of depth. In this way you can circumnavigate the "tripod" in stereo.
 
-### Thief of Baghdad (AKA, Carpet):
+### Thief of Baghdad:
 
-**Carpet** was the working title. **Thief of Baghdad** was a sketch for a "platformer" game — the platforms being magical flying carpets. Sad to say though, I never implemented hit detection code to enable our little thief to jump from one carpet to the next — so you have to content yourself to the one carpet you begin on.
+**Thief of Baghdad** (working title was *Carpet*) was a sketch for a "platformer" game — the platforms being magical flying carpets. Sad to say though, I never implemented hit detection code to enable our little thief to jump from one carpet to the next — so you have to content yourself to the one carpet you begin on.
 
 <p align="center">
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/1b6cdf5890f867892f17f7392ff53e95d25c800f/Images/Carpet.png">
@@ -124,3 +124,19 @@ I kind of want to pick this one up again and at least move it a little further a
 Although the palette (above) suggests a circle tool, rectangle tool, brush, different patterns, line weights, only the freehand drawing tool (pencil) was ever implemented. Nonetheless, the `+` (plus) and `-` (minus) keys do change the "depth" of the pencil. Making a gentle spiral with the mouse while holding down either the plus or minus at the same time was a wild effect — a spiral falling into or rising up out of the display.
 
 As you can see in the screenshot, having a mirrored menu bar was kind of different. In fact the whole menu is faked with an image containing the reversed menu.
+
+### East Winds:
+
+Working title: *Fighting Kite*. I know the traditional Asian fighting kites did not have two strings, but aerobatic kites were kind of becoming a thing when I wrote **East Winds** (December, 1990) so I depict two hands on each side of the screen each holding a handle attached to a string to the kite (you don't actually see the kite strings). Moving the mouse left or right shifts the hands in opposite directions from one another — one hand raising as the other hand pulls down. This action causes the diamond-shaped kite to rotate one way or the other.
+
+Moving the mouse forward or backward acts as a "collective" moving both hands up or down — removing or adding velocity to the kite. Fly far left or far right and the view pans to follow your kite. Fly too far though and the wind falls off significantly and your kite can no longer remain airborne.
+
+So this again was another exercise in experimental game input. Could a player begin to learn how to intuitively control the kite with just motions of the mouse affecting orientation and pull of the kite? I enjoy these *indirect* methods of control (in a similar sense to having to leverage floor vents to get lift for your paper **Glider**).
+
+Even playing it a bit though I still find I am crashing repeatedly into the ground. Maybe there is some more tuning that can be done to the input to make that less frequent?
+
+But what to do with these kite flying skills? I added balloons very much like my game **Glider** that you try to cut the string from. And like *Joust*, if you dilly-dally too long, just enjoying the kite flying weather an "oriental" dragon appears in the sky to fire a bolt of energy at your kite.
+
+Once I latched on to the Asian theme I enjoyed adding things like the Asian dragon, an abacus for keeping score, the man that sits after he releases your kite, the small pagoda-like hut...
+
+Of the games on this volume of Unfinished Tales **East Winds** is the most complete. Is it fun though? Not really. Or maybe I should let you judge for yourself.
