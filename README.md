@@ -155,7 +155,7 @@ Of the games on this volume of Unfinished Tales **East Winds** is the most compl
 <img width="274" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/e1cb97fad08264b548a949286f9870c53cbae18b/Images/X_Glyph.png">
 </p>
 
-I have nothing remaining of this game but the entry mentioned at the top of this **README** and a partial sprite sheet from a single **MacPaint** document. I also don't remember it. I'm going to hazard a guess though that it was a networked or two-player version of my shareware game **Glypha**.
+I have nothing remaining of this game but the entry mentioned at the top of this **README** and a partial sprite sheet from a single **MacPaint** document. I also don't remember it. I'm going to hazard a guess though that it was a networked or two-player version of my shareware game **Glypha**. The player's mount (above) is a black version of the mount from the published **Glypha** (so, player 2?).
 
 ### UnMask:
 
