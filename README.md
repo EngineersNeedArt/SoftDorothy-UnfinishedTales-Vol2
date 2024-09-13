@@ -157,6 +157,6 @@ Of the games on this volume of Unfinished Tales **East Winds** is the most compl
 
 I have nothing remaining of this game but the entry mentioned at the top of this **README** and a partial sprite sheet from a single **MacPaint** document. I also don't remember it. I'm going to hazard a guess though that it was a networked or two-player version of my shareware game **Glypha**.
 
-### Unmask:
+### UnMask:
 
 Not a game. In fact but a mote of a utility. I include it here simply because I'm a completist. From the doc I found there must have been an app in the day that would mask mouse events in the OS and when it exited leave the OS in that state. This small utility (I claim I wrote it in 10 minutes and I am sure that is true) "unmasks" the mouse events. I suppose I can find some humor that a rogue app back on that much-simpler Mac OS could screw up the events for all other apps.
