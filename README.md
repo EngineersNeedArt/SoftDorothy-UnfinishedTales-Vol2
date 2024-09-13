@@ -112,3 +112,15 @@ Without any visual cues though it is not obvious if you are moving forward aroun
 Again the sprite sheet is telling. I'm going to guess the flags were going to be the thing that scrolled around the back edge of the arena to give you the sense of movement. A player from the opposing team is in the sprite sheet (wearing black). It looks like elbowing and jumping were to be part of the game.
 
 I kind of want to pick this one up again and at least move it a little further along. Likely work on **Pararena** took me away from doing that at the time.
+
+### DeepSketch:
+
+**DeepSketch** was another stereo 3D experiment. Not a game, it was a fun little attempt at a drawing program to see the relationship between the 3D depth effect and interactivity. Like **Tripod 3D** previously, it used a vertical separating mirror to assist the 3D effect. Since I currently don't have such a setup, I'll have to rely then on my memory of the time — I remember that being able to "doodle spatially" was a pretty cool thing.
+
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/60de6face5600f1e82cc6e894ef924db4d5b16a9/Images/DeepSketch.png">
+</p>
+
+Although the palette (above) suggests a circle tool, rectangle tool, brush, different patterns, line weights, only the freehand drawing tool (pencil) was ever implemented. Nonetheless, the `+` (plus) and `-` (minus) keys do change the "depth" of the pencil. Making a gentle spiral with the mouse while holding down either the plus or minus at the same time was a wild effect — a spiral falling into or rising up out of the display.
+
+As you can see in the screenshot, having a mirrored menu bar was kind of different. In fact the whole menu is faked with an image containing the reversed menu.
