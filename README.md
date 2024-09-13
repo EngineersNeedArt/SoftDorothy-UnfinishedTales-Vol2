@@ -184,3 +184,5 @@ You can try it for yourself. And though I can't claim that the physics implement
 Again, the sprite sheet is telling: a second ice boat suggests one-on-one races between rigs was in the plans.
 
 If you want to play it, the point is to follow the course laid out within the markers — and to try to navigate the course as quickly as you can. Controls for the rudder are `A` and `S`, controls for setting angle of the sail are `F` and `H` with the `G` key *zeroing* (luffing?) the sail. The game assumes a 640 x 480 display, will switch to 16 colors if you are not already in that display mode (nice to be able to borrow code from previous games — **Glider 4.0** in this case).
+
+Oh, and I didn't play with it, but it appears to have a course editor where you should be able to lay out the pylons for your own course. Usually the *level editors* on these sketches are still pretty bare-bones though.
