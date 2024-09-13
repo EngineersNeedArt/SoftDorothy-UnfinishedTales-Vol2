@@ -162,3 +162,15 @@ I have nothing remaining of this game but the entry mentioned at the top of this
 Not a game. In fact but a mote of a utility. I include it here simply because I'm a completist. From the doc I found there must have been an app in the day that would mask mouse events in the OS and when it exited leave the OS in that state — the user now unable to use the mouse button. This small utility (I claim I wrote it in 10 minutes and I am sure that is true) "unmasks" the mouse events.
 
 Kind of funny that a rogue app back on that much-simpler Mac OS could screw up the events for all other apps.
+
+### Ice Runner:
+
+The one document I have been relying upon containing the *creator codes* ends with **MacTuberling** (a game I published that is on the shareware archive I uploaded) and so for the rest of the archive I put together I will have to rely on file modification dates to try to construct an approximate timeline. Fortunately, **Ice Runner** (about July 1991) also has a creator code `sd30`, making it the two games after **MacTuberling** (I have yet to discover what `sd29` was).
+
+As you can see, **Ice Runner** is in color. I had only just got my first color Macintosh (an inexpensive Macintoshj IIsi) in 1991 after Casady & Greene had advanced me money for the game **Glider** I was developing for them to publish. So from more or less this point on, my game experiments go full color. **Glypha II** was the first published shareware game I did in color, **Ice Runner** is probably the first unfinished experiment.
+
+I loved the ice sailboats (ice boats?) that I used to see plans for in old *The Boy Mechanic* books and so tried to capture some ice-sailing physics in a game. I imagined a game where the player has no control over the direction of the wind (of course) but instead can set only the rudder and sail angles. Playable? Challenging? Fun? Let's sketch out the game and find out.
+
+You can try it for yourself. And though I can't claim that the physics implementation is spot-on, I felt I had put enough effort into it to determine that the game was probably a non-starter. It was a head-scratcher for me to play — and I am supposed to know how it works. I didn't see that it would be something others would enjoy.
+
+If you want to play it, the point is to follow the course laid out within the markers — and to try to navigate the course as quickly as you can. Controls for the rudder are XXX and YYY, controls for setting angle of the sail are WWW and ZZZ.
