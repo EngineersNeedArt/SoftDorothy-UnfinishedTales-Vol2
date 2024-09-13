@@ -159,4 +159,6 @@ I have nothing remaining of this game but the entry mentioned at the top of this
 
 ### UnMask:
 
-Not a game. In fact but a mote of a utility. I include it here simply because I'm a completist. From the doc I found there must have been an app in the day that would mask mouse events in the OS and when it exited leave the OS in that state. This small utility (I claim I wrote it in 10 minutes and I am sure that is true) "unmasks" the mouse events. I suppose I can find some humor that a rogue app back on that much-simpler Mac OS could screw up the events for all other apps.
+Not a game. In fact but a mote of a utility. I include it here simply because I'm a completist. From the doc I found there must have been an app in the day that would mask mouse events in the OS and when it exited leave the OS in that state — the user now unable to use the mouse button. This small utility (I claim I wrote it in 10 minutes and I am sure that is true) "unmasks" the mouse events.
+
+Kind of funny that a rogue app back on that much-simpler Mac OS could screw up the events for all other apps.
