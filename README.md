@@ -193,7 +193,7 @@ Oh, and I didn't play with it, but it appears to have a course editor where you 
 <img width="640" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/c61cdbd2a8ac37a56257f6887c27ed3134b8777b/Images/Streamer.png">
 </p>
 
-Following in the footsteps of the previously mentioned **East Winds**, the partial **Streamer** was a side scrolling, flight-related experiment. Maybe you know/rememebr the old control-line model airplanes. More specifically there was a model airplane hobby involving flying what were called *combat* airplanes. Model planes with small gas engines would pull behind them a paper streamer — the goal was to cut off the streamer of your opponent while maintaining your own plane's.
+Following in the footsteps of the previously mentioned **East Winds**, the partially-implemented **Streamer** was a side scrolling, flight-related experiment. Maybe you know/rememebr the old control-line model airplanes. More specifically there was a model airplane hobby involving flying what were called *combat* airplanes. Model planes with small gas engines would pull behind them a paper streamer — the goal was to cut off the streamer of your opponent while maintaining your own plane's.
 
 <p align="center">
 <img width="515" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/c61cdbd2a8ac37a56257f6887c27ed3134b8777b/Images/Streamer_Sprites.png">
