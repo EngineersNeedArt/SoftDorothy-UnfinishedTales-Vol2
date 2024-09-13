@@ -192,3 +192,11 @@ Oh, and I didn't play with it, but it appears to have a course editor where you 
 Follwing in the footsteps of the previously mentioned **East Winds**, the partial **Streamer** was a side scrolling, flight-related experiment. Maybe you know/rememebr the old control-line model airplanes. More specifically there was a model airplane hobby involving flying what were called *combat* airplanes. Model planes with small gas engines would pull behind them a paper streamer — the goal was to cut off the streamer of your opponent while maintaining your own plane's.
 
 Very little of the game was implemented. Trying to be true to physics (and having actually, briefly, flown a control-line model airplane) the simulated combat airplane in **Streamer** dives quickly, is slower to climb. This makes for a pretty twitchy interface that feels more painful than fun. For that reason, moving forward with the work needed to add an opponent, add sound (add an actual streamer) was cancelled. So in June, 1991, I shelved it.
+
+### Wrapping Up
+
+If you're counting, I might have shelved something like four games for every one game that went all the way to shipping. Or maybe it's 5-to-1. For this reason alone I have always been suspicious of pre-announced games (and I have never pre-announced any of my own games). I know all too well that a game that shows initial promise — perhaps visually, feature-wise — can still be missing that "magical spark" that makes the game fun, compelling. It's for that reason that I tend to "move fast and shelve things".
+
+This volume of *Unfinished Tales* sees the end of my B&W games and experiments. It may also be the end of my Pascal programming days. By 1992 or so I would switch to color and to the C programming language exclusively.
+
+I will return soon with *Unfinished Tales, Vol. 3* where the scope and types of games I start to experiment with begin to broaden at times from the sprite-based games I had previously been focused on.
