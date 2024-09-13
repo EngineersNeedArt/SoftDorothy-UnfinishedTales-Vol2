@@ -186,3 +186,9 @@ Again, the sprite sheet is telling: a second ice boat suggests one-on-one races 
 If you want to play it, the point is to follow the course laid out within the markers — and to try to navigate the course as quickly as you can. Controls for the rudder are `A` and `S`, controls for setting angle of the sail are `F` and `H` with the `G` key *zeroing* (luffing?) the sail. The game assumes a 640 x 480 display, will switch to 16 colors if you are not already in that display mode (nice to be able to borrow code from previous games — **Glider 4.0** in this case).
 
 Oh, and I didn't play with it, but it appears to have a course editor where you should be able to lay out the pylons for your own course. Usually the *level editors* on these sketches are still pretty bare-bones though.
+
+### Streamer:
+
+Follwing in the footsteps of the previously mentioned **East Winds**, the partial **Streamer** was a side scrolling, flight-related experiment. Maybe you know/rememebr the old control-line model airplanes. More specifically there was a model airplane hobby involving flying what were called *combat* airplanes. Model planes with small gas engines would pull behind them a paper streamer — the goal was to cut off the streamer of your opponent while maintaining your own plane's.
+
+Very little of the game was implemented. Trying to be true to physics (and having actually, briefly, flown a control-line model airplane) the simulated combat airplane in **Streamer** dives quickly, is slower to climb. This makes for a pretty twitchy interface that feels more painful than fun. For that reason, moving forward with the work needed to add an opponent, add sound (add an actual streamer) was cancelled. So in June, 1991, I shelved it.
