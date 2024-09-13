@@ -129,6 +129,10 @@ As you can see in the screenshot, having a mirrored menu bar was kind of differe
 
 Working title: *Fighting Kite*. I know the traditional Asian fighting kites did not have two strings, but aerobatic kites were kind of becoming a thing when I wrote **East Winds** (December, 1990) so I depict two hands on each side of the screen each holding a handle attached to a string to the kite (you don't actually see the kite strings). Moving the mouse left or right shifts the hands in opposite directions from one another — one hand raising as the other hand pulls down. This action causes the diamond-shaped kite to rotate one way or the other.
 
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/55b453fb65957528d873e7a3a5ec1795dcfb65ce/Images/East_Winds.png">
+</p>
+
 Moving the mouse forward or backward acts as a "collective" moving both hands up or down — removing or adding velocity to the kite. Fly far left or far right and the view pans to follow your kite. Fly too far though and the wind falls off significantly and your kite can no longer remain airborne.
 
 So this again was another exercise in experimental game input. Could a player begin to learn how to intuitively control the kite with just motions of the mouse affecting orientation and pull of the kite? I enjoy these *indirect* methods of control (in a similar sense to having to leverage floor vents to get lift for your paper **Glider**).
@@ -137,6 +141,22 @@ Even playing it a bit though I still find I am crashing repeatedly into the grou
 
 But what to do with these kite flying skills? I added balloons very much like my game **Glider** that you try to cut the string from. And like *Joust*, if you dilly-dally too long, just enjoying the kite flying weather an "oriental" dragon appears in the sky to fire a bolt of energy at your kite.
 
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/55b453fb65957528d873e7a3a5ec1795dcfb65ce/Images/East_Winds_Sprites.png">
+</p>
+
 Once I latched on to the Asian theme I enjoyed adding things like the Asian dragon, an abacus for keeping score, the man that sits after he releases your kite, the small pagoda-like hut...
 
 Of the games on this volume of Unfinished Tales **East Winds** is the most complete. Is it fun though? Not really. Or maybe I should let you judge for yourself.
+
+### X-Glyph:
+
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/55b453fb65957528d873e7a3a5ec1795dcfb65ce/Images/East_Winds_Sprites.png">
+</p>
+
+I have nothing remaining of this game but the entry mentioned at the top of this **README** and a partial sprite sheet from a single **MacPaint** document. I also don't remember it. I'm going to hazard a guess though that it was a networked or two-player version of my shareware game **Glypha**.
+
+### Unmask:
+
+Not a game. In fact but a mote of a utility. I include it here simply because I'm a completist. From the doc I found there must have been an app in the day that would mask mouse events in the OS and when it exited leave the OS in that state. This small utility (I claim I wrote it in 10 minutes and I am sure that is true) "unmasks" the mouse events. I suppose I can find some humor that a rogue app back on that much-simpler Mac OS could screw up the events for all other apps.
