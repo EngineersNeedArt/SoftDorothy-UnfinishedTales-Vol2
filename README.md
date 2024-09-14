@@ -147,7 +147,7 @@ But what to do with these kite flying skills? I added balloons very much like my
 
 Once I latched on to the Asian theme I enjoyed adding things like the Asian dragon, an abacus for keeping score, the man that sits after he releases your kite, the small pagoda-like hut...
 
-Of the games on this volume of Unfinished Tales **East Winds** is the most complete. Is it fun though? Not really. Or maybe I should let you judge for yourself.
+Of the games on this volume of *Unfinished Tales*, **East Winds** is the most complete. Is it fun though? Not really. Or maybe I should let you judge for yourself.
 
 ### X-Glyph:
 
