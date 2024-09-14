@@ -139,7 +139,7 @@ So this again was another exercise in experimental game input. Could a player be
 
 Even playing it a bit though I still find I am crashing repeatedly into the ground. Maybe there is some more tuning that can be done to the input to make that less frequent?
 
-But what to do with these kite flying skills? I added balloons very much like my game **Glider** that you try to cut the string from. And like *Joust*, if you dilly-dally too long, just enjoying the kite flying weather an "oriental" dragon appears in the sky to fire a bolt of energy at your kite.
+But what to do with these kite flying skills? I added balloons very much like my game **Glider** that you try to cut the string from. And like *Joust*, if you dilly-dally too long, just enjoying the kite flying weather, an "oriental" dragon appears in the sky to fire a bolt of energy at your kite.
 
 <p align="center">
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/55b453fb65957528d873e7a3a5ec1795dcfb65ce/Images/East_Winds_Sprites.png">
