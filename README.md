@@ -171,7 +171,7 @@ The one document I have been relying upon containing the *creator codes* ends wi
 <img width="640" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/5ed2eb618e995975857dae9fbf10f1c666b3b234/Images/Ice_Runner.png">
 </p>
 
-As you can see, **Ice Runner** is in color. I had only just got my first color Macintosh (an inexpensive Macintosh IIsi) in 1991 after Casady & Greene had advanced me money for the game **Glider** I was developing for them to publish. So from more or less this point on, my game experiments go full color. **Glypha II** was the first published shareware game I did in color, **Ice Runner** is probably the first unfinished experiment.
+As you can see, **Ice Runner** is in color. I had only just got my first color Macintosh (an inexpensive Macintosh IIsi) in 1991 after Casady & Greene had advanced me money for the game **Glider** that I was developing for them to publish. So from more or less that point on, my game experiments go full color. **Glypha II** was the first shareware game I released in color, **Ice Runner** is probably my first unfinished experiment.
 
 I loved the ice sailboats (ice boats?) that I used to see plans for in old *The Boy Mechanic* books and so tried to capture some ice-sailing physics in a game. I imagined a game where the player has no control over the direction of the wind (of course) but instead can set only the rudder and sail angles. Playable? Challenging? Fun? Let's sketch out the game and find out.
 
