@@ -165,7 +165,7 @@ Kind of funny that a rogue app back on that much-simpler Mac OS could screw up t
 
 ### Ice Runner:
 
-The one document I have been relying upon containing the *creator codes* ends with **MacTuberling** (a game I published that is on the shareware archive I uploaded) and so for the rest of the archive I put together I will have to rely on file modification dates to try to construct an approximate timeline. Fortunately, **Ice Runner** (about July 1991) also has a creator code `sd30`, making it the two games after **MacTuberling** (I have yet to discover what `sd29` was).
+The one document I have been relying upon containing the *creator codes* ends with **MacTuberling** (a game I released and is on the shareware archive I uploaded) and so for the rest of the archive I put together I will have to rely on file modification dates to try to construct an approximate timeline. Fortunately, **Ice Runner** (about July 1991) also has a creator code `sd30`, making it the two games after **MacTuberling** (I have yet to discover what `sd29` was).
 
 <p align="center">
 <img width="640" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/5ed2eb618e995975857dae9fbf10f1c666b3b234/Images/Ice_Runner.png">
