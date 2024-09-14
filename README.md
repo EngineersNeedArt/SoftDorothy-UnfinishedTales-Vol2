@@ -45,13 +45,13 @@ Turning the cursor into a bird was a cute addition, but I moved on.
 
 ### Tripod 3D:
 
-I was fascinated by the stereo (actual 3D) images you could create on the Macintosh and did a rather ligthweight game called **Stella Obscura** about May of 1990. **Tripod 3D** was a kind of continuation of that. **Stella Obscura** was what you would call *parallel* stereo where, if you can relax your eyes, your eyes are looking in parallel at the two images: your left eye looking at the left image, your right eye looking at the right. Without additional optics, it's rather difficult for most people to do.
+I was fascinated by the stereo (actual 3D) images you could create on the Macintosh and did a rather lightweight game called **Stella Obscura** about May of 1990. **Tripod 3D** was a kind of continuation of that. **Stella Obscura** was what you would call *parallel* stereo where, if you can relax your eyes, your eyes are looking in parallel at the two images: your left eye looking at the left image, your right eye looking at the right. Without additional optics, it's rather difficult for most people to do.
 
 <p align="center">
 <img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/4c648fe242019ee73eac530abf11b176b9a75517/Images/Tripod3D.png">
 </p>
 
-**Tripod 3D** was just an experiment to test a different approach. One of the images, lets say the right one, is flipped as though a mirror image of what the right eye would see. The left image is normal. But you place a mirror, running vertical between the bridge of your nose and the center of the screen — separating the two images. If the reflective side of the mirror is to the right, your left eye sees the left image as per normal, but the right eye, will see the reflected right image in the mirror — hopefully precisely over the left image (if that makes sense).
+**Tripod 3D** was just an experiment to test a different approach. One of the images, let's say the right one, is flipped as though a mirror image of what the right eye would see. The left image is normal. But you place a mirror, running vertical between the bridge of your nose and the center of the screen — separating the two images. If the reflective side of the mirror is to the right, your left eye sees the left image as per normal, but the right eye, will see the reflected right image in the mirror — hopefully precisely over the left image (if that makes sense).
 
 <p align="center">
 <img width="325" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/f0f666749cc47a2e6d7ad793522bb36c1192fd18/Images/StereoDiagram.png">
@@ -59,7 +59,7 @@ I was fascinated by the stereo (actual 3D) images you could create on the Macint
 
 It's stereo just like **Stella Obscura** but much more relaxing for people to adjust their eyes to. The caveat of course is that you need to build a rather odd viewing contraption with the mirror and all that. For what it's worth, it the depth effect worked very well.
 
-If you should give it a try, the mouse button activates the player's jetpack thruster in order for the player to gain elevation. Moving the mouse left and right moves the jet-pack'd player left and right, white moving the mouse verticaly actually moves the player in and out of depth. In this way you can circumnavigate the "tripod" in stereo.
+If you should give it a try, the mouse button activates the player's jetpack thruster in order for the player to gain elevation. Moving the mouse left and right moves the jet-pack'd player left and right, white moving the mouse vertically actually moves the player in and out of depth. In this way you can circumnavigate the "tripod" in stereo.
 
 ### Thief of Baghdad:
 
@@ -83,13 +83,13 @@ Around September, 1990 I was playing with **AirBikes**. The game **K-10** (see U
 
 It's too bad though because when I play with the game now, such as it is, I can hear some really cool sounds in my head that would really take the experience to the next level.
 
-And the artwork (probably inspired by the first *Heavy Metal* film) is kind of cool. If you play with this at all watch how the exhaust pops from the airbike when you accelerate — the woman's hair is tosssed in the wind, she leans when she turns, pops up off the seat when braking.
+And the artwork (probably inspired by the first *Heavy Metal* film) is kind of cool. If you play with this at all watch how the exhaust pops from the airbike when you accelerate — the woman's hair is tossed in the wind, she leans when she turns, pops up off the seat when braking.
 
 <p align="center">
 <img width="463" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/e7c1b184bad8b1a3b591906417a1fefe3f3295e7/Images/AirBike_Sprites.png">
 </p>
 
-My note for **AirBikes** from the text file at the top of this README says simply `<slow>`. Did I bail on the game simply for that reason — that it felt slow on my lowly Macintosh Plus? The sprite art shows the beginning of an opponent, floating mines, a riderless airbike. One can imagine dodging barrles, mines, opponents — occassionally be sent over the bars fo the airbike... Maybe I didn't really have anywhere else to go with it though.
+My note for **AirBikes** from the text file at the top of this README says simply `<slow>`. Did I bail on the game simply for that reason — that it felt slow on my lowly Macintosh Plus? The sprite art shows the beginning of an opponent, floating mines, a riderless airbike. One can imagine dodging barrels, mines, opponents — occasionally be sent over the bars of the airbike... Maybe I didn't really have anywhere else to go with it though.
 
 Later I would partner with a programmer named Jeff Robbin to work on a collaborative racing-style game called **Spaceway 2000**. I think we both agree it was kind of "meh". Perhaps racing games were just not something I was meant to write. 
 
@@ -103,7 +103,7 @@ I was working on **Roll-A-Rena** about September, 1990 another game, **Pararena*
 
 Not much came of **Roll-A-Rena** while **Pararena** I finished and released as shareware. What there is of **Roll-A-Rena** feels to me like just an experiment in user input. I'm not even sure how it works or is supposed to work. The mouse button will move your player's feet back and forth — moving the mouse left and right "steers" the player nearer or farther from us. If I had to guess, I think pumping the mouse button was intended to give you a forward impulse. Climbing the roller-arena wall would trade forward velocity for potential energy. Skating away from the wall would do the reverse.
 
-Without any visual cues though it is not obvious if you are moving forward around the area and if you , how quickly. I guess I abandonded this one a little soon for that.
+Without any visual cues though it is not obvious if you are moving forward around the area and if you , how quickly. I guess I abandoned this one a little soon for that.
 
 <p align="center">
 <img width="199" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/e2873e71379da2d67e000663adf367086c6a4296/Images/Roll_A_Rena_Sprites.png">
@@ -171,7 +171,7 @@ The one document I have been relying upon containing the *creator codes* ends wi
 <img width="640" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/5ed2eb618e995975857dae9fbf10f1c666b3b234/Images/Ice_Runner.png">
 </p>
 
-As you can see, **Ice Runner** is in color. I had only just got my first color Macintosh (an inexpensive Macintoshj IIsi) in 1991 after Casady & Greene had advanced me money for the game **Glider** I was developing for them to publish. So from more or less this point on, my game experiments go full color. **Glypha II** was the first published shareware game I did in color, **Ice Runner** is probably the first unfinished experiment.
+As you can see, **Ice Runner** is in color. I had only just got my first color Macintosh (an inexpensive Macintosh IIsi) in 1991 after Casady & Greene had advanced me money for the game **Glider** I was developing for them to publish. So from more or less this point on, my game experiments go full color. **Glypha II** was the first published shareware game I did in color, **Ice Runner** is probably the first unfinished experiment.
 
 I loved the ice sailboats (ice boats?) that I used to see plans for in old *The Boy Mechanic* books and so tried to capture some ice-sailing physics in a game. I imagined a game where the player has no control over the direction of the wind (of course) but instead can set only the rudder and sail angles. Playable? Challenging? Fun? Let's sketch out the game and find out.
 
