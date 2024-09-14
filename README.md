@@ -175,7 +175,7 @@ As you can see, **Ice Runner** is in color. I had only just got my first color M
 
 I loved the ice sailboats (ice boats?) that I used to see plans for in old *The Boy Mechanic* books and so tried to capture some ice-sailing physics in a game. I imagined a game where the player has no control over the direction of the wind (of course) but instead can set only the rudder and sail angles. Playable? Challenging? Fun? Let's sketch out the game and find out.
 
-You can try it for yourself. And though I can't claim that the physics implementation is spot-on, I felt I had put enough effort into it to determine that the game was probably a non-starter. It was a head-scratcher for me to play — and I am supposed to know how it works. I didn't see that it would be something others would enjoy.
+You can try it for yourself. And though I can't claim that the physics implementation is spot-on, I felt I had put enough effort into it to determine that the game was probably a non-starter. It was a head-scratcher for me to play — and I am supposed to know how it works. I didn't think that it would be a game that others would enjoy.
 
 <p align="center">
 <img width="515" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/5ed2eb618e995975857dae9fbf10f1c666b3b234/Images/Ice_Runner_Sprites.png">
