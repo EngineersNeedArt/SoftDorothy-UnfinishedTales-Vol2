@@ -109,7 +109,7 @@ Without any visual cues though it is not obvious if you are moving forward aroun
 <img width="199" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/e2873e71379da2d67e000663adf367086c6a4296/Images/Roll_A_Rena_Sprites.png">
 </p>
 
-Again the sprite sheet is telling. I'm going to guess the flags were going to be the thing that scrolled around the back edge of the arena to give you the sense of movement. A player from the opposing team is in the sprite sheet (wearing black). It looks like elbowing and jumping were to be part of the game.
+Again, the sprite sheet is telling. I'm going to guess the flags were going to be the thing that scrolled around the back edge of the arena to give you the sense of movement. A player from the opposing team is in the sprite sheet (wearing black). It looks like elbowing and jumping were to be part of the game.
 
 I kind of want to pick this one up again and at least move it a little further along. Likely work on **Pararena** took me away from doing that at the time.
 
