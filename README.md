@@ -181,7 +181,7 @@ You can try it for yourself. And though I can't claim that the physics implement
 <img width="515" src="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2/blob/5ed2eb618e995975857dae9fbf10f1c666b3b234/Images/Ice_Runner_Sprites.png">
 </p>
 
-Again, the sprite sheet is telling: a second ice boat suggests one-on-one races between rigs was in the plans.
+Again, the sprite sheet: a second ice boat suggests one-on-one races between rigs was in the plans.
 
 If you want to play it, the point is to follow the course laid out within the markers — and to try to navigate the course as quickly as you can. Controls for the rudder are `A` and `S`, controls for setting angle of the sail are `F` and `H` with the `G` key *zeroing* (luffing?) the sail. The game assumes a 640 x 480 display, will switch to 16 colors if you are not already in that display mode (nice to be able to borrow code from previous games — **Glider 4.0** in this case).
 
