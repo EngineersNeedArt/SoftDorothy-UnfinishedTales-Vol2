@@ -8,7 +8,7 @@ The second part of a collection of Soft Dorothy Software scraps and game experim
 
 As with the other repos (<a href="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1">Soft Dorothy - Unfinished Tales Vol 1</a>, <a href="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects">Soft Dorothy-Shareware Projects</a> and <a href="https://github.com/EngineersNeedArt/SoftDorothy-CasadyGreeneProjects">Soft Dorothy - Casady & Greene Projects</a>), this is a disk image that can be mounted with a 68K Mac emulator. This disk image contains more projects that I began, did not complete.
 
-Here is the continuation of the list that I presented part of in the README to Unfinished Tales Vol. 1. It ends where I was working on, had not shipped, **Mac Tuberling**. Other titles listed below that did ship were **Stella Obscura** and **Pararena**.
+Here is the continuation of the list that I presented part of in the README to Unfinished Tales Vol. 1. The list ends with the game I was working on at that time, **Mac Tuberling**. Other titles listed below that I did release were **Stella Obscura** and **Pararena**.
 
 ```
 :
