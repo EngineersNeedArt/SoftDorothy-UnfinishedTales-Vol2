@@ -207,6 +207,6 @@ If you're counting, I might have shelved something like four games for every one
 
 This volume of *Unfinished Tales* sees the end of my B&W games and experiments. It may also be the end of my Pascal programming days. By 1992 or so I would switch to color and to the C programming language exclusively. I confess, having revisited all these little experiments now, I find I have a stronger attachment to the B&W art than the color art that came later. Perhaps I was just not very good working with color — or perhaps the B&W emphasized texture, use of light and dark areas. Or maybe the B&W is simply more nostalgic.
 
-I will return soon with *Unfinished Tales, Vol. 3* where the scope and types of games I start to experiment with begins to broaden at times from the sprite-based games I had previously been focused on.
+I will return with *Unfinished Tales, Vol. 3* where the scope and types of games I start to experiment with begins to broaden at times from the sprite-based games I had previously been focused on.
 
 **John Calhoun—**
